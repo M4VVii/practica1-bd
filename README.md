@@ -73,4 +73,6 @@ Un contenedor es una unidad lógica de software que empaqueta una aplicación ju
 
 Por diseño, los contenedores son momentáneos y su capa de escritura superior se destruye cuando el contenedor se elimina. Si no se declara un volumen explícitamente en una base de datos, toda la información ingresada por los usuarios se almacenará en esta capa temporal. Al reiniciar o destruir el contenedor para una actualización, toda la base de datos se perdería irremediablemente.
 
+Nota: Proyecto de IA completado.
+
 </div>
