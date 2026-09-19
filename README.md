@@ -16,7 +16,7 @@
 ## Índice del Repositorio
 
 1.  [Entorno Técnico (Docker Compose)](entorno/compose.yaml)
-2.  [Documentación: Investigación sobre Bases de Datos](docs/investigacion-bases-datos.pdf)
+2.  [Documentación: Investigación sobre Bases de Datos](docs/investigacion-bases-de-datos.pdf)
 3.  [Documentación: Estado del Arte](docs/estado-del-arte.pdf)
 4.  [Documentación: Caso de Estudio](docs/caso-de-estudio.pdf)
 5.  [Modelo de Datos: Diagrama Entidad-Relación](modelo/diagrama-er.webp)
