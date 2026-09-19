@@ -4,11 +4,11 @@ services:
     container_name: pg_practica1
     restart: always
     environment:
-      POSTGRES_USER: tu_usuario
+      POSTGRES_USER: mavv
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: practica1
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
 
